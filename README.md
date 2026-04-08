@@ -1,2 +1,2 @@
 # PINTARIN-Capstone-Project-2026
-PINTARIN is an AI-based decision support system for identifying education risk and optimizing scholarship distribution in Bandung using data-driven insights. Built with TensorFlow, FastAPI, and React.
+PINTARIN is an AI-powered decision support system for education risk scoring and targeted scholarship distribution in Bandung, enabling data-driven decisions for government and CSR stakeholders. Built with TensorFlow, FastAPI, and React.
